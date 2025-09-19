@@ -14,3 +14,9 @@
   max-width: 30rem;
   margin: 4rem auto;
 }
+
+#navbar {
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+}
